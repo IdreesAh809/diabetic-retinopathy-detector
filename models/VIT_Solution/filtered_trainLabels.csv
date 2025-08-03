@@ -1,0 +1,3351 @@
+image,level,diagnosis
+10_left,0,No DR
+10_right,0,No DR
+100_left,0,No DR
+100_right,0,No DR
+102_left,0,No DR
+102_right,0,No DR
+104_left,0,No DR
+104_right,0,No DR
+108_left,0,No DR
+108_right,0,No DR
+111_left,0,No DR
+111_right,0,No DR
+114_left,1,Mild
+114_right,1,Mild
+115_left,0,No DR
+115_right,0,No DR
+117_left,0,No DR
+117_right,0,No DR
+119_left,0,No DR
+119_right,0,No DR
+122_left,0,No DR
+122_right,0,No DR
+125_left,0,No DR
+125_right,0,No DR
+129_left,2,Moderate
+129_right,2,Moderate
+1000_left,0,No DR
+1000_right,0,No DR
+1002_left,3,Severe
+1002_right,2,Moderate
+1008_left,3,Severe
+1008_right,3,Severe
+1011_left,0,No DR
+1011_right,0,No DR
+1012_left,0,No DR
+1012_right,0,No DR
+1017_left,0,No DR
+1017_right,0,No DR
+1020_left,1,Mild
+1020_right,1,Mild
+1021_left,0,No DR
+1021_right,0,No DR
+1024_left,0,No DR
+1024_right,0,No DR
+1027_left,1,Mild
+1027_right,0,No DR
+1029_left,0,No DR
+1029_right,0,No DR
+1030_left,2,Moderate
+1030_right,2,Moderate
+1032_left,2,Moderate
+1032_right,2,Moderate
+1034_left,2,Moderate
+1034_right,2,Moderate
+1035_left,0,No DR
+1035_right,0,No DR
+1036_left,1,Mild
+1036_right,1,Mild
+1037_left,0,No DR
+1037_right,2,Moderate
+1040_left,0,No DR
+1040_right,0,No DR
+1041_left,0,No DR
+1041_right,0,No DR
+1042_left,0,No DR
+1042_right,0,No DR
+1043_left,1,Mild
+1043_right,0,No DR
+1044_left,0,No DR
+1044_right,0,No DR
+1047_left,0,No DR
+1047_right,0,No DR
+1049_left,2,Moderate
+1049_right,2,Moderate
+1050_left,2,Moderate
+1050_right,2,Moderate
+1051_left,0,No DR
+1051_right,0,No DR
+1052_left,0,No DR
+1052_right,0,No DR
+1055_left,0,No DR
+1055_right,0,No DR
+1056_left,0,No DR
+1056_right,0,No DR
+1057_left,0,No DR
+1057_right,0,No DR
+1058_left,0,No DR
+1058_right,0,No DR
+1059_left,0,No DR
+1059_right,0,No DR
+1061_left,0,No DR
+1061_right,0,No DR
+1070_left,0,No DR
+1070_right,0,No DR
+1073_left,0,No DR
+1073_right,0,No DR
+1075_left,2,Moderate
+1075_right,0,No DR
+1076_left,2,Moderate
+1076_right,0,No DR
+1077_left,1,Mild
+1077_right,1,Mild
+1084_left,4,Proliferative DR
+1084_right,4,Proliferative DR
+1088_left,0,No DR
+1088_right,0,No DR
+1092_left,0,No DR
+1092_right,0,No DR
+1093_left,0,No DR
+1093_right,0,No DR
+1096_left,0,No DR
+1096_right,0,No DR
+1098_left,1,Mild
+1098_right,2,Moderate
+1099_left,3,Severe
+1099_right,4,Proliferative DR
+1100_left,1,Mild
+1100_right,1,Mild
+1102_left,0,No DR
+1102_right,0,No DR
+1107_left,2,Moderate
+1107_right,2,Moderate
+1111_left,2,Moderate
+1111_right,2,Moderate
+1113_left,0,No DR
+1113_right,0,No DR
+1116_left,0,No DR
+1116_right,0,No DR
+1119_left,0,No DR
+1119_right,2,Moderate
+1120_left,0,No DR
+1120_right,0,No DR
+1123_left,0,No DR
+1123_right,0,No DR
+1127_left,0,No DR
+1127_right,0,No DR
+1131_left,0,No DR
+1131_right,0,No DR
+1133_left,0,No DR
+1133_right,0,No DR
+1135_left,0,No DR
+1135_right,0,No DR
+1136_left,0,No DR
+1136_right,0,No DR
+1138_left,4,Proliferative DR
+1138_right,4,Proliferative DR
+1139_left,1,Mild
+1139_right,0,No DR
+1140_left,2,Moderate
+1140_right,2,Moderate
+1142_left,0,No DR
+1142_right,2,Moderate
+1144_left,0,No DR
+1144_right,0,No DR
+1145_left,1,Mild
+1145_right,2,Moderate
+1146_left,0,No DR
+1146_right,0,No DR
+1147_left,0,No DR
+1147_right,0,No DR
+1152_left,0,No DR
+1152_right,2,Moderate
+1161_left,0,No DR
+1161_right,0,No DR
+1162_left,3,Severe
+1162_right,3,Severe
+1165_left,0,No DR
+1165_right,0,No DR
+1167_left,2,Moderate
+1167_right,2,Moderate
+1170_left,0,No DR
+1170_right,0,No DR
+1172_left,0,No DR
+1172_right,0,No DR
+1177_left,3,Severe
+1177_right,3,Severe
+1178_left,2,Moderate
+1178_right,2,Moderate
+1179_left,0,No DR
+1179_right,0,No DR
+1180_left,0,No DR
+1180_right,0,No DR
+1182_left,0,No DR
+1182_right,0,No DR
+1188_left,0,No DR
+1188_right,0,No DR
+1192_left,0,No DR
+1192_right,0,No DR
+1196_left,3,Severe
+1196_right,3,Severe
+1197_left,0,No DR
+1197_right,0,No DR
+1199_left,0,No DR
+1199_right,0,No DR
+1202_left,0,No DR
+1202_right,0,No DR
+1204_left,2,Moderate
+1204_right,2,Moderate
+1206_left,0,No DR
+1206_right,0,No DR
+1211_left,0,No DR
+1211_right,0,No DR
+1212_left,0,No DR
+1212_right,0,No DR
+1222_left,0,No DR
+1222_right,0,No DR
+1226_left,1,Mild
+1226_right,0,No DR
+1228_left,0,No DR
+1228_right,0,No DR
+1233_left,2,Moderate
+1233_right,2,Moderate
+1240_left,0,No DR
+1240_right,0,No DR
+1242_left,0,No DR
+1242_right,0,No DR
+1255_left,0,No DR
+1255_right,0,No DR
+1259_left,2,Moderate
+1259_right,2,Moderate
+1260_left,0,No DR
+1260_right,0,No DR
+1266_left,1,Mild
+1266_right,1,Mild
+1267_left,0,No DR
+1267_right,0,No DR
+1269_left,0,No DR
+1269_right,0,No DR
+1272_left,0,No DR
+1272_right,0,No DR
+1275_left,0,No DR
+1275_right,0,No DR
+1277_left,1,Mild
+1277_right,0,No DR
+1282_left,0,No DR
+1282_right,0,No DR
+1283_left,1,Mild
+1283_right,0,No DR
+1285_left,0,No DR
+1285_right,0,No DR
+1289_left,0,No DR
+1289_right,0,No DR
+1290_left,2,Moderate
+1290_right,2,Moderate
+1292_left,0,No DR
+1292_right,0,No DR
+1294_left,0,No DR
+1294_right,0,No DR
+1296_left,2,Moderate
+1296_right,2,Moderate
+1297_left,0,No DR
+1297_right,0,No DR
+1299_left,0,No DR
+1299_right,0,No DR
+1302_left,0,No DR
+1302_right,0,No DR
+1305_left,0,No DR
+1305_right,0,No DR
+1306_left,0,No DR
+1306_right,0,No DR
+1307_left,0,No DR
+1307_right,0,No DR
+1309_left,1,Mild
+1309_right,0,No DR
+1312_left,0,No DR
+1312_right,0,No DR
+1313_left,0,No DR
+1313_right,0,No DR
+1316_left,0,No DR
+1316_right,0,No DR
+1318_left,0,No DR
+1318_right,0,No DR
+1322_left,0,No DR
+1322_right,0,No DR
+1324_left,0,No DR
+1324_right,2,Moderate
+1330_left,0,No DR
+1330_right,0,No DR
+1332_left,0,No DR
+1332_right,0,No DR
+1333_left,0,No DR
+1333_right,0,No DR
+1334_left,0,No DR
+1334_right,0,No DR
+1336_left,0,No DR
+1336_right,0,No DR
+1343_left,1,Mild
+1343_right,1,Mild
+1346_left,0,No DR
+1346_right,0,No DR
+1347_left,0,No DR
+1347_right,0,No DR
+1348_left,0,No DR
+1348_right,0,No DR
+1349_left,0,No DR
+1349_right,0,No DR
+1350_left,4,Proliferative DR
+1350_right,3,Severe
+1351_left,0,No DR
+1351_right,0,No DR
+1353_left,0,No DR
+1353_right,0,No DR
+1356_left,0,No DR
+1356_right,0,No DR
+1357_left,0,No DR
+1357_right,0,No DR
+1358_left,0,No DR
+1358_right,0,No DR
+1361_left,0,No DR
+1361_right,0,No DR
+1362_left,2,Moderate
+1362_right,2,Moderate
+1363_left,0,No DR
+1363_right,0,No DR
+1367_left,2,Moderate
+1367_right,2,Moderate
+1369_left,1,Mild
+1369_right,1,Mild
+1370_left,0,No DR
+1370_right,0,No DR
+1373_left,0,No DR
+1373_right,0,No DR
+1374_left,0,No DR
+1374_right,1,Mild
+1377_left,0,No DR
+1377_right,0,No DR
+1378_left,0,No DR
+1378_right,0,No DR
+10003_left,0,No DR
+10003_right,0,No DR
+10007_left,0,No DR
+10007_right,0,No DR
+10009_left,0,No DR
+10009_right,0,No DR
+10010_left,0,No DR
+10010_right,0,No DR
+10013_left,0,No DR
+10013_right,0,No DR
+10014_left,0,No DR
+10014_right,0,No DR
+10015_left,0,No DR
+10015_right,0,No DR
+10017_left,4,Proliferative DR
+10017_right,4,Proliferative DR
+10022_left,0,No DR
+10022_right,0,No DR
+10028_left,0,No DR
+10028_right,0,No DR
+10029_left,0,No DR
+10029_right,0,No DR
+10030_left,1,Mild
+10030_right,1,Mild
+10031_left,0,No DR
+10031_right,0,No DR
+10032_left,0,No DR
+10032_right,0,No DR
+10035_left,0,No DR
+10035_right,0,No DR
+10042_left,0,No DR
+10042_right,0,No DR
+10043_left,2,Moderate
+10043_right,2,Moderate
+10046_left,0,No DR
+10046_right,0,No DR
+10047_left,3,Severe
+10047_right,4,Proliferative DR
+10048_left,0,No DR
+10048_right,0,No DR
+10050_left,0,No DR
+10050_right,0,No DR
+10053_left,0,No DR
+10053_right,0,No DR
+10058_left,0,No DR
+10058_right,0,No DR
+10059_left,0,No DR
+10059_right,0,No DR
+10061_left,0,No DR
+10061_right,0,No DR
+10065_left,0,No DR
+10065_right,0,No DR
+10069_left,0,No DR
+10069_right,0,No DR
+10073_left,0,No DR
+10073_right,0,No DR
+10078_left,0,No DR
+10078_right,0,No DR
+10081_left,0,No DR
+10081_right,0,No DR
+10085_left,1,Mild
+10085_right,1,Mild
+10092_left,0,No DR
+10092_right,0,No DR
+10094_left,0,No DR
+10094_right,0,No DR
+10095_left,0,No DR
+10095_right,0,No DR
+10099_left,0,No DR
+10099_right,0,No DR
+10100_left,0,No DR
+10100_right,0,No DR
+10104_left,0,No DR
+10104_right,0,No DR
+10109_left,2,Moderate
+10109_right,2,Moderate
+10112_left,2,Moderate
+10112_right,0,No DR
+10115_left,0,No DR
+10115_right,0,No DR
+10116_left,0,No DR
+10116_right,0,No DR
+10120_left,2,Moderate
+10120_right,2,Moderate
+10124_left,0,No DR
+10124_right,0,No DR
+10125_left,3,Severe
+10125_right,3,Severe
+10126_left,0,No DR
+10126_right,0,No DR
+10129_left,0,No DR
+10129_right,0,No DR
+10130_left,0,No DR
+10130_right,0,No DR
+10131_left,2,Moderate
+10131_right,2,Moderate
+10134_left,0,No DR
+10134_right,0,No DR
+10135_left,2,Moderate
+10135_right,2,Moderate
+10137_left,0,No DR
+10137_right,0,No DR
+10141_left,0,No DR
+10141_right,0,No DR
+10144_left,0,No DR
+10144_right,0,No DR
+10147_left,2,Moderate
+10147_right,2,Moderate
+10149_left,0,No DR
+10149_right,0,No DR
+10150_left,2,Moderate
+10150_right,1,Mild
+10153_left,3,Severe
+10153_right,3,Severe
+10154_left,0,No DR
+10154_right,0,No DR
+10155_left,0,No DR
+10155_right,0,No DR
+10156_left,2,Moderate
+10156_right,2,Moderate
+10159_left,2,Moderate
+10159_right,3,Severe
+10160_left,2,Moderate
+10160_right,2,Moderate
+10161_left,0,No DR
+10161_right,0,No DR
+10162_left,0,No DR
+10162_right,0,No DR
+10163_left,0,No DR
+10163_right,0,No DR
+10166_left,0,No DR
+10166_right,0,No DR
+10169_left,0,No DR
+10169_right,1,Mild
+10170_left,0,No DR
+10170_right,0,No DR
+10173_left,0,No DR
+10173_right,0,No DR
+10175_left,0,No DR
+10175_right,0,No DR
+10177_left,1,Mild
+10177_right,1,Mild
+10181_left,2,Moderate
+10181_right,2,Moderate
+10182_left,0,No DR
+10182_right,0,No DR
+10183_left,2,Moderate
+10183_right,0,No DR
+10184_left,0,No DR
+10184_right,0,No DR
+10187_left,0,No DR
+10187_right,0,No DR
+10190_left,0,No DR
+10190_right,0,No DR
+10193_left,2,Moderate
+10193_right,4,Proliferative DR
+10194_left,0,No DR
+10194_right,0,No DR
+10199_left,0,No DR
+10199_right,0,No DR
+10206_left,0,No DR
+10206_right,0,No DR
+10207_left,0,No DR
+10207_right,0,No DR
+10210_left,0,No DR
+10210_right,0,No DR
+10212_left,0,No DR
+10212_right,0,No DR
+10218_left,0,No DR
+10218_right,0,No DR
+10220_left,1,Mild
+10220_right,0,No DR
+10221_left,0,No DR
+10221_right,1,Mild
+10223_left,0,No DR
+10223_right,0,No DR
+10224_left,0,No DR
+10224_right,0,No DR
+10226_left,0,No DR
+10226_right,0,No DR
+10230_left,2,Moderate
+10230_right,2,Moderate
+10232_left,0,No DR
+10232_right,1,Mild
+10233_left,1,Mild
+10233_right,1,Mild
+10234_left,1,Mild
+10234_right,1,Mild
+10239_left,0,No DR
+10239_right,0,No DR
+10241_left,0,No DR
+10241_right,0,No DR
+10242_left,2,Moderate
+10242_right,0,No DR
+10243_left,0,No DR
+10243_right,0,No DR
+10244_left,2,Moderate
+10244_right,2,Moderate
+10250_left,2,Moderate
+10250_right,2,Moderate
+10251_left,0,No DR
+10251_right,0,No DR
+10252_left,0,No DR
+10252_right,0,No DR
+10255_left,0,No DR
+10255_right,0,No DR
+10257_left,0,No DR
+10257_right,0,No DR
+10260_left,0,No DR
+10260_right,0,No DR
+10262_left,2,Moderate
+10262_right,2,Moderate
+10263_left,0,No DR
+10263_right,0,No DR
+10265_left,0,No DR
+10265_right,0,No DR
+10266_left,0,No DR
+10266_right,0,No DR
+10269_left,1,Mild
+10269_right,0,No DR
+10270_left,0,No DR
+10270_right,0,No DR
+10272_left,2,Moderate
+10272_right,2,Moderate
+10276_left,0,No DR
+10276_right,0,No DR
+10278_left,0,No DR
+10278_right,0,No DR
+10279_left,0,No DR
+10279_right,0,No DR
+10284_left,0,No DR
+10284_right,0,No DR
+10288_left,0,No DR
+10288_right,0,No DR
+10292_left,0,No DR
+10292_right,0,No DR
+10293_left,0,No DR
+10293_right,0,No DR
+10294_left,0,No DR
+10294_right,0,No DR
+10295_left,0,No DR
+10295_right,0,No DR
+10297_left,2,Moderate
+10297_right,1,Mild
+10303_left,0,No DR
+10303_right,2,Moderate
+10305_left,0,No DR
+10305_right,0,No DR
+10306_left,2,Moderate
+10306_right,2,Moderate
+10310_left,0,No DR
+10310_right,0,No DR
+10312_left,4,Proliferative DR
+10312_right,2,Moderate
+10317_left,0,No DR
+10317_right,0,No DR
+10319_left,2,Moderate
+10319_right,2,Moderate
+10320_left,2,Moderate
+10320_right,1,Mild
+10321_left,4,Proliferative DR
+10321_right,0,No DR
+10325_left,2,Moderate
+10325_right,2,Moderate
+10326_left,2,Moderate
+10326_right,0,No DR
+10328_left,0,No DR
+10328_right,0,No DR
+10333_left,0,No DR
+10333_right,0,No DR
+10334_left,1,Mild
+10334_right,2,Moderate
+10337_left,0,No DR
+10337_right,0,No DR
+10339_left,2,Moderate
+10339_right,2,Moderate
+10340_left,0,No DR
+10340_right,0,No DR
+10343_left,0,No DR
+10343_right,0,No DR
+10352_left,0,No DR
+10352_right,0,No DR
+10353_left,0,No DR
+10353_right,0,No DR
+10356_left,0,No DR
+10356_right,1,Mild
+10359_left,0,No DR
+10359_right,0,No DR
+10363_left,0,No DR
+10363_right,0,No DR
+10367_left,0,No DR
+10367_right,0,No DR
+10368_left,0,No DR
+10368_right,0,No DR
+10369_left,0,No DR
+10369_right,0,No DR
+10372_left,0,No DR
+10372_right,0,No DR
+10374_left,2,Moderate
+10374_right,0,No DR
+10377_left,0,No DR
+10377_right,0,No DR
+10379_left,2,Moderate
+10379_right,2,Moderate
+10384_left,1,Mild
+10384_right,0,No DR
+10386_left,2,Moderate
+10386_right,0,No DR
+10388_left,0,No DR
+10388_right,0,No DR
+10389_left,0,No DR
+10389_right,0,No DR
+10391_left,0,No DR
+10391_right,0,No DR
+10397_left,0,No DR
+10397_right,2,Moderate
+10398_left,0,No DR
+10398_right,0,No DR
+10400_left,0,No DR
+10400_right,0,No DR
+10401_left,0,No DR
+10401_right,2,Moderate
+10403_left,0,No DR
+10403_right,0,No DR
+10404_left,0,No DR
+10404_right,0,No DR
+10407_left,0,No DR
+10407_right,0,No DR
+10408_left,2,Moderate
+10408_right,2,Moderate
+10409_left,0,No DR
+10409_right,0,No DR
+10413_left,0,No DR
+10413_right,0,No DR
+10415_left,2,Moderate
+10415_right,2,Moderate
+10416_left,0,No DR
+10416_right,0,No DR
+10419_left,0,No DR
+10419_right,0,No DR
+10421_left,0,No DR
+10421_right,0,No DR
+10426_left,1,Mild
+10426_right,0,No DR
+10427_left,0,No DR
+10427_right,0,No DR
+10429_left,0,No DR
+10429_right,0,No DR
+10431_left,0,No DR
+10431_right,0,No DR
+10437_left,0,No DR
+10437_right,0,No DR
+10438_left,2,Moderate
+10438_right,2,Moderate
+10439_left,2,Moderate
+10439_right,2,Moderate
+10440_left,0,No DR
+10440_right,0,No DR
+10444_left,2,Moderate
+10444_right,2,Moderate
+10448_left,0,No DR
+10448_right,0,No DR
+10451_left,0,No DR
+10451_right,0,No DR
+10452_left,0,No DR
+10452_right,0,No DR
+10454_left,2,Moderate
+10454_right,2,Moderate
+10457_left,2,Moderate
+10457_right,2,Moderate
+10458_left,0,No DR
+10458_right,0,No DR
+10464_left,0,No DR
+10464_right,0,No DR
+10468_left,2,Moderate
+10468_right,1,Mild
+10475_left,0,No DR
+10475_right,0,No DR
+10479_left,0,No DR
+10479_right,0,No DR
+10481_left,0,No DR
+10481_right,0,No DR
+10484_left,0,No DR
+10484_right,0,No DR
+10487_left,0,No DR
+10487_right,0,No DR
+10489_left,2,Moderate
+10489_right,3,Severe
+10492_left,0,No DR
+10492_right,0,No DR
+10495_left,0,No DR
+10495_right,0,No DR
+10501_left,0,No DR
+10501_right,2,Moderate
+10502_left,0,No DR
+10502_right,0,No DR
+10503_left,2,Moderate
+10503_right,0,No DR
+10504_left,0,No DR
+10504_right,0,No DR
+10510_left,3,Severe
+10510_right,2,Moderate
+10511_left,0,No DR
+10511_right,0,No DR
+10513_left,2,Moderate
+10513_right,2,Moderate
+10515_left,0,No DR
+10515_right,0,No DR
+10521_left,0,No DR
+10521_right,0,No DR
+10523_left,0,No DR
+10523_right,0,No DR
+10529_left,0,No DR
+10529_right,0,No DR
+10534_left,0,No DR
+10534_right,0,No DR
+10541_left,0,No DR
+10541_right,0,No DR
+10542_left,0,No DR
+10542_right,0,No DR
+10545_left,0,No DR
+10545_right,1,Mild
+10548_left,0,No DR
+10548_right,0,No DR
+10550_left,0,No DR
+10550_right,0,No DR
+10551_left,1,Mild
+10551_right,1,Mild
+10552_left,0,No DR
+10552_right,0,No DR
+10553_left,0,No DR
+10553_right,0,No DR
+10558_left,0,No DR
+10558_right,0,No DR
+10560_left,0,No DR
+10560_right,0,No DR
+10562_left,0,No DR
+10562_right,0,No DR
+10563_left,0,No DR
+10563_right,0,No DR
+10566_left,0,No DR
+10566_right,0,No DR
+10567_left,2,Moderate
+10567_right,1,Mild
+10568_left,0,No DR
+10568_right,0,No DR
+10569_left,0,No DR
+10569_right,2,Moderate
+10570_left,4,Proliferative DR
+10570_right,4,Proliferative DR
+10579_left,3,Severe
+10579_right,3,Severe
+10583_left,0,No DR
+10583_right,0,No DR
+10585_left,0,No DR
+10585_right,0,No DR
+10587_left,0,No DR
+10587_right,0,No DR
+10592_left,2,Moderate
+10592_right,2,Moderate
+10594_left,0,No DR
+10594_right,1,Mild
+10603_left,0,No DR
+10603_right,0,No DR
+10605_left,0,No DR
+10605_right,0,No DR
+10606_left,3,Severe
+10606_right,3,Severe
+10608_left,0,No DR
+10608_right,0,No DR
+10610_left,0,No DR
+10610_right,0,No DR
+10612_left,0,No DR
+10612_right,0,No DR
+10614_left,0,No DR
+10614_right,0,No DR
+10616_left,2,Moderate
+10616_right,2,Moderate
+10619_left,0,No DR
+10619_right,0,No DR
+10622_left,0,No DR
+10622_right,0,No DR
+10623_left,0,No DR
+10623_right,0,No DR
+10624_left,0,No DR
+10624_right,0,No DR
+10626_left,0,No DR
+10626_right,0,No DR
+10629_left,0,No DR
+10629_right,0,No DR
+10634_left,0,No DR
+10634_right,0,No DR
+10636_left,0,No DR
+10636_right,0,No DR
+10640_left,0,No DR
+10640_right,0,No DR
+10643_left,0,No DR
+10643_right,0,No DR
+10644_left,0,No DR
+10644_right,0,No DR
+10645_left,2,Moderate
+10645_right,2,Moderate
+10646_left,0,No DR
+10646_right,0,No DR
+10647_left,2,Moderate
+10647_right,2,Moderate
+10649_left,0,No DR
+10649_right,0,No DR
+10650_left,0,No DR
+10650_right,0,No DR
+10651_left,2,Moderate
+10651_right,2,Moderate
+10653_left,4,Proliferative DR
+10653_right,4,Proliferative DR
+10657_left,1,Mild
+10657_right,1,Mild
+10658_left,0,No DR
+10658_right,2,Moderate
+10660_left,0,No DR
+10660_right,0,No DR
+10664_left,0,No DR
+10664_right,0,No DR
+10666_left,2,Moderate
+10666_right,0,No DR
+10669_left,0,No DR
+10669_right,0,No DR
+10671_left,0,No DR
+10671_right,2,Moderate
+10672_left,1,Mild
+10672_right,1,Mild
+10674_left,0,No DR
+10674_right,0,No DR
+10675_left,0,No DR
+10675_right,0,No DR
+10680_left,2,Moderate
+10680_right,2,Moderate
+10684_left,2,Moderate
+10684_right,2,Moderate
+10688_left,2,Moderate
+10688_right,2,Moderate
+10694_left,2,Moderate
+10694_right,2,Moderate
+10695_left,0,No DR
+10695_right,0,No DR
+10698_left,0,No DR
+10698_right,0,No DR
+10701_left,0,No DR
+10701_right,0,No DR
+10705_left,0,No DR
+10705_right,0,No DR
+10710_left,0,No DR
+10710_right,0,No DR
+10720_left,0,No DR
+10720_right,0,No DR
+10722_left,0,No DR
+10722_right,0,No DR
+10723_left,0,No DR
+10723_right,0,No DR
+10726_left,2,Moderate
+10726_right,2,Moderate
+10727_left,0,No DR
+10727_right,0,No DR
+10729_left,0,No DR
+10729_right,0,No DR
+10731_left,0,No DR
+10731_right,0,No DR
+10732_left,0,No DR
+10732_right,0,No DR
+10734_left,2,Moderate
+10734_right,2,Moderate
+10737_left,2,Moderate
+10737_right,1,Mild
+10743_left,0,No DR
+10743_right,0,No DR
+10745_left,0,No DR
+10745_right,0,No DR
+10748_left,0,No DR
+10748_right,0,No DR
+10751_left,0,No DR
+10751_right,0,No DR
+10752_left,0,No DR
+10752_right,0,No DR
+10754_left,0,No DR
+10754_right,0,No DR
+10755_left,0,No DR
+10755_right,0,No DR
+10758_left,1,Mild
+10758_right,1,Mild
+10761_left,0,No DR
+10761_right,0,No DR
+10762_left,1,Mild
+10762_right,0,No DR
+10763_left,0,No DR
+10763_right,0,No DR
+10770_left,0,No DR
+10770_right,0,No DR
+10771_left,0,No DR
+10771_right,0,No DR
+10772_left,0,No DR
+10772_right,0,No DR
+10773_left,0,No DR
+10773_right,0,No DR
+10777_left,0,No DR
+10777_right,0,No DR
+10779_left,0,No DR
+10779_right,0,No DR
+10781_left,0,No DR
+10781_right,0,No DR
+10782_left,0,No DR
+10782_right,0,No DR
+10785_left,4,Proliferative DR
+10785_right,4,Proliferative DR
+10786_left,0,No DR
+10786_right,0,No DR
+10787_left,1,Mild
+10787_right,1,Mild
+10790_left,0,No DR
+10790_right,1,Mild
+10791_left,0,No DR
+10791_right,0,No DR
+10792_left,0,No DR
+10792_right,0,No DR
+10794_left,0,No DR
+10794_right,0,No DR
+10808_left,1,Mild
+10808_right,0,No DR
+10810_left,0,No DR
+10810_right,0,No DR
+10811_left,2,Moderate
+10811_right,2,Moderate
+10812_left,1,Mild
+10812_right,0,No DR
+10814_left,0,No DR
+10814_right,0,No DR
+10815_left,0,No DR
+10815_right,0,No DR
+10819_left,3,Severe
+10819_right,3,Severe
+10822_left,1,Mild
+10822_right,1,Mild
+10823_left,0,No DR
+10823_right,0,No DR
+10827_left,0,No DR
+10827_right,0,No DR
+10831_left,2,Moderate
+10831_right,0,No DR
+10832_left,0,No DR
+10832_right,0,No DR
+10833_left,0,No DR
+10833_right,0,No DR
+10835_left,0,No DR
+10835_right,0,No DR
+10838_left,0,No DR
+10838_right,0,No DR
+10839_left,0,No DR
+10839_right,0,No DR
+10842_left,0,No DR
+10842_right,0,No DR
+10844_left,2,Moderate
+10844_right,2,Moderate
+10845_left,0,No DR
+10845_right,0,No DR
+10848_left,0,No DR
+10848_right,0,No DR
+10851_left,0,No DR
+10851_right,0,No DR
+10853_left,1,Mild
+10853_right,1,Mild
+10854_left,2,Moderate
+10854_right,2,Moderate
+10861_left,0,No DR
+10861_right,0,No DR
+10864_left,0,No DR
+10864_right,0,No DR
+10865_left,0,No DR
+10865_right,0,No DR
+10873_left,0,No DR
+10873_right,0,No DR
+10874_left,0,No DR
+10874_right,0,No DR
+10879_left,0,No DR
+10879_right,0,No DR
+10883_left,2,Moderate
+10883_right,2,Moderate
+10884_left,0,No DR
+10884_right,0,No DR
+10886_left,0,No DR
+10886_right,0,No DR
+10891_left,0,No DR
+10891_right,0,No DR
+10897_left,0,No DR
+10897_right,0,No DR
+10903_left,0,No DR
+10903_right,0,No DR
+10904_left,4,Proliferative DR
+10904_right,4,Proliferative DR
+10907_left,0,No DR
+10907_right,0,No DR
+10908_left,0,No DR
+10908_right,0,No DR
+10913_left,0,No DR
+10913_right,0,No DR
+10915_left,0,No DR
+10915_right,0,No DR
+10916_left,0,No DR
+10916_right,0,No DR
+10919_left,0,No DR
+10919_right,0,No DR
+10920_left,2,Moderate
+10920_right,2,Moderate
+10923_left,0,No DR
+10923_right,0,No DR
+10924_left,2,Moderate
+10924_right,2,Moderate
+10925_left,2,Moderate
+10925_right,1,Mild
+10930_left,0,No DR
+10930_right,0,No DR
+10931_left,0,No DR
+10931_right,0,No DR
+10934_left,0,No DR
+10934_right,0,No DR
+10936_left,0,No DR
+10936_right,0,No DR
+10940_left,0,No DR
+10940_right,0,No DR
+10941_left,0,No DR
+10941_right,0,No DR
+10942_left,0,No DR
+10942_right,0,No DR
+10943_left,0,No DR
+10943_right,0,No DR
+10945_left,0,No DR
+10945_right,2,Moderate
+10947_left,0,No DR
+10947_right,0,No DR
+10952_left,0,No DR
+10952_right,0,No DR
+10954_left,4,Proliferative DR
+10954_right,4,Proliferative DR
+10960_left,0,No DR
+10960_right,0,No DR
+10961_left,0,No DR
+10961_right,0,No DR
+10962_left,0,No DR
+10962_right,0,No DR
+10963_left,0,No DR
+10963_right,0,No DR
+10966_left,2,Moderate
+10966_right,2,Moderate
+10969_left,0,No DR
+10969_right,0,No DR
+10970_left,0,No DR
+10970_right,0,No DR
+10974_left,0,No DR
+10974_right,0,No DR
+10975_left,0,No DR
+10975_right,0,No DR
+10976_left,2,Moderate
+10976_right,0,No DR
+10977_left,0,No DR
+10977_right,0,No DR
+10983_left,0,No DR
+10983_right,0,No DR
+10987_left,0,No DR
+10987_right,0,No DR
+10988_left,0,No DR
+10988_right,0,No DR
+10989_left,0,No DR
+10989_right,0,No DR
+10994_left,0,No DR
+10994_right,0,No DR
+10996_left,0,No DR
+10996_right,1,Mild
+11003_left,0,No DR
+11003_right,0,No DR
+11005_left,1,Mild
+11005_right,0,No DR
+11007_left,1,Mild
+11007_right,1,Mild
+11008_left,0,No DR
+11008_right,0,No DR
+11010_left,2,Moderate
+11010_right,0,No DR
+11013_left,0,No DR
+11013_right,0,No DR
+11023_left,0,No DR
+11023_right,0,No DR
+11026_left,2,Moderate
+11026_right,2,Moderate
+11031_left,3,Severe
+11031_right,3,Severe
+11032_left,4,Proliferative DR
+11032_right,4,Proliferative DR
+11035_left,3,Severe
+11035_right,3,Severe
+11037_left,0,No DR
+11037_right,0,No DR
+11040_left,2,Moderate
+11040_right,2,Moderate
+11041_left,0,No DR
+11041_right,0,No DR
+11043_left,0,No DR
+11043_right,0,No DR
+11048_left,0,No DR
+11048_right,0,No DR
+11049_left,0,No DR
+11049_right,0,No DR
+11050_left,0,No DR
+11050_right,0,No DR
+11053_left,1,Mild
+11053_right,1,Mild
+11054_left,2,Moderate
+11054_right,2,Moderate
+11056_left,0,No DR
+11056_right,0,No DR
+11057_left,1,Mild
+11057_right,0,No DR
+11058_left,2,Moderate
+11058_right,2,Moderate
+11067_left,0,No DR
+11067_right,0,No DR
+11069_left,2,Moderate
+11069_right,3,Severe
+11072_left,0,No DR
+11072_right,0,No DR
+11079_left,0,No DR
+11079_right,0,No DR
+11080_left,0,No DR
+11080_right,0,No DR
+11083_left,0,No DR
+11083_right,0,No DR
+11085_left,2,Moderate
+11085_right,2,Moderate
+11087_left,0,No DR
+11087_right,0,No DR
+11089_left,2,Moderate
+11089_right,2,Moderate
+11091_left,0,No DR
+11091_right,0,No DR
+11095_left,0,No DR
+11095_right,0,No DR
+11097_left,0,No DR
+11097_right,0,No DR
+11098_left,2,Moderate
+11098_right,2,Moderate
+11099_left,0,No DR
+11099_right,0,No DR
+11101_left,1,Mild
+11101_right,0,No DR
+11106_left,0,No DR
+11106_right,0,No DR
+11113_left,0,No DR
+11113_right,1,Mild
+11114_left,0,No DR
+11114_right,0,No DR
+11115_left,0,No DR
+11115_right,0,No DR
+11117_left,0,No DR
+11117_right,0,No DR
+11119_left,0,No DR
+11119_right,0,No DR
+11120_left,2,Moderate
+11120_right,2,Moderate
+11121_left,0,No DR
+11121_right,0,No DR
+11122_left,0,No DR
+11122_right,0,No DR
+11123_left,0,No DR
+11123_right,0,No DR
+11124_left,0,No DR
+11124_right,0,No DR
+11125_left,2,Moderate
+11125_right,3,Severe
+11127_left,0,No DR
+11127_right,0,No DR
+11129_left,0,No DR
+11129_right,0,No DR
+11130_left,0,No DR
+11130_right,0,No DR
+11132_left,0,No DR
+11132_right,0,No DR
+11136_left,0,No DR
+11136_right,0,No DR
+11138_left,0,No DR
+11138_right,0,No DR
+11142_left,3,Severe
+11142_right,3,Severe
+11143_left,0,No DR
+11143_right,0,No DR
+11147_left,2,Moderate
+11147_right,3,Severe
+11149_left,0,No DR
+11149_right,0,No DR
+11152_left,0,No DR
+11152_right,0,No DR
+11153_left,0,No DR
+11153_right,0,No DR
+11155_left,0,No DR
+11155_right,0,No DR
+11156_left,2,Moderate
+11156_right,2,Moderate
+11157_left,0,No DR
+11157_right,0,No DR
+11158_left,0,No DR
+11158_right,0,No DR
+11159_left,2,Moderate
+11159_right,1,Mild
+11161_left,1,Mild
+11161_right,1,Mild
+11162_left,1,Mild
+11162_right,0,No DR
+11163_left,0,No DR
+11163_right,1,Mild
+11164_left,0,No DR
+11164_right,2,Moderate
+11165_left,2,Moderate
+11165_right,2,Moderate
+11169_left,0,No DR
+11169_right,0,No DR
+11176_left,2,Moderate
+11176_right,2,Moderate
+11178_left,0,No DR
+11178_right,0,No DR
+11180_left,0,No DR
+11180_right,0,No DR
+11181_left,0,No DR
+11181_right,0,No DR
+11182_left,0,No DR
+11182_right,0,No DR
+11183_left,2,Moderate
+11183_right,1,Mild
+11186_left,0,No DR
+11186_right,0,No DR
+11187_left,2,Moderate
+11187_right,0,No DR
+11192_left,0,No DR
+11192_right,0,No DR
+11196_left,2,Moderate
+11196_right,3,Severe
+11197_left,0,No DR
+11197_right,0,No DR
+11198_left,0,No DR
+11198_right,0,No DR
+11203_left,0,No DR
+11203_right,0,No DR
+11204_left,0,No DR
+11204_right,0,No DR
+11206_left,2,Moderate
+11206_right,3,Severe
+11207_left,0,No DR
+11207_right,0,No DR
+11209_left,2,Moderate
+11209_right,2,Moderate
+11211_left,3,Severe
+11211_right,3,Severe
+11216_left,0,No DR
+11216_right,0,No DR
+11217_left,2,Moderate
+11217_right,2,Moderate
+11219_left,3,Severe
+11219_right,3,Severe
+11221_left,0,No DR
+11221_right,0,No DR
+11222_left,0,No DR
+11222_right,0,No DR
+11228_left,0,No DR
+11228_right,0,No DR
+11229_left,0,No DR
+11229_right,2,Moderate
+11230_left,2,Moderate
+11230_right,2,Moderate
+11231_left,0,No DR
+11231_right,2,Moderate
+11232_left,0,No DR
+11232_right,0,No DR
+11234_left,0,No DR
+11234_right,0,No DR
+11238_left,2,Moderate
+11238_right,2,Moderate
+11241_left,0,No DR
+11241_right,2,Moderate
+11243_left,2,Moderate
+11243_right,2,Moderate
+11244_left,0,No DR
+11244_right,0,No DR
+11246_left,0,No DR
+11246_right,0,No DR
+11247_left,0,No DR
+11247_right,0,No DR
+11249_left,2,Moderate
+11249_right,2,Moderate
+11261_left,0,No DR
+11261_right,0,No DR
+11262_left,0,No DR
+11262_right,0,No DR
+11263_left,1,Mild
+11263_right,1,Mild
+11265_left,0,No DR
+11265_right,0,No DR
+11267_left,3,Severe
+11267_right,3,Severe
+11268_left,0,No DR
+11268_right,0,No DR
+11270_left,2,Moderate
+11270_right,2,Moderate
+11271_left,0,No DR
+11271_right,0,No DR
+11273_left,0,No DR
+11273_right,0,No DR
+11283_left,0,No DR
+11283_right,0,No DR
+11288_left,2,Moderate
+11288_right,2,Moderate
+11289_left,0,No DR
+11289_right,0,No DR
+11291_left,2,Moderate
+11291_right,2,Moderate
+11292_left,2,Moderate
+11292_right,3,Severe
+11293_left,0,No DR
+11293_right,0,No DR
+11294_left,0,No DR
+11294_right,0,No DR
+11298_left,0,No DR
+11298_right,0,No DR
+11299_left,0,No DR
+11299_right,0,No DR
+11301_left,0,No DR
+11301_right,0,No DR
+11304_left,0,No DR
+11304_right,0,No DR
+11305_left,0,No DR
+11305_right,0,No DR
+11308_left,0,No DR
+11308_right,1,Mild
+11310_left,0,No DR
+11310_right,0,No DR
+11313_left,0,No DR
+11313_right,0,No DR
+11314_left,0,No DR
+11314_right,0,No DR
+11315_left,1,Mild
+11315_right,2,Moderate
+11316_left,2,Moderate
+11316_right,2,Moderate
+11317_left,0,No DR
+11317_right,0,No DR
+11319_left,0,No DR
+11319_right,0,No DR
+11321_left,0,No DR
+11321_right,0,No DR
+11325_left,0,No DR
+11325_right,0,No DR
+11326_left,0,No DR
+11326_right,0,No DR
+11332_left,0,No DR
+11332_right,0,No DR
+11335_left,0,No DR
+11335_right,0,No DR
+11340_left,0,No DR
+11340_right,0,No DR
+11341_left,0,No DR
+11341_right,0,No DR
+11345_left,2,Moderate
+11345_right,2,Moderate
+11348_left,0,No DR
+11348_right,0,No DR
+11349_left,0,No DR
+11349_right,0,No DR
+11362_left,0,No DR
+11362_right,0,No DR
+11364_left,0,No DR
+11364_right,2,Moderate
+11365_left,0,No DR
+11365_right,0,No DR
+11366_left,0,No DR
+11366_right,0,No DR
+11370_left,0,No DR
+11370_right,0,No DR
+11371_left,0,No DR
+11371_right,0,No DR
+11375_left,0,No DR
+11375_right,0,No DR
+11378_left,0,No DR
+11378_right,0,No DR
+11382_left,0,No DR
+11382_right,0,No DR
+11384_left,2,Moderate
+11384_right,2,Moderate
+11385_left,0,No DR
+11385_right,0,No DR
+11387_left,2,Moderate
+11387_right,2,Moderate
+11388_left,0,No DR
+11388_right,0,No DR
+11391_left,0,No DR
+11391_right,0,No DR
+11392_left,0,No DR
+11392_right,0,No DR
+11393_left,0,No DR
+11393_right,0,No DR
+11394_left,0,No DR
+11394_right,0,No DR
+11395_left,0,No DR
+11395_right,0,No DR
+11397_left,0,No DR
+11397_right,0,No DR
+11407_left,0,No DR
+11407_right,0,No DR
+11408_left,2,Moderate
+11408_right,0,No DR
+11409_left,2,Moderate
+11409_right,2,Moderate
+11417_left,2,Moderate
+11417_right,4,Proliferative DR
+11420_left,0,No DR
+11420_right,0,No DR
+11421_left,0,No DR
+11421_right,1,Mild
+11425_left,0,No DR
+11425_right,1,Mild
+11427_left,0,No DR
+11427_right,1,Mild
+11428_left,0,No DR
+11428_right,0,No DR
+11431_left,0,No DR
+11431_right,0,No DR
+11432_left,0,No DR
+11432_right,0,No DR
+11435_left,0,No DR
+11435_right,0,No DR
+11437_left,1,Mild
+11437_right,0,No DR
+11438_left,0,No DR
+11438_right,0,No DR
+11439_left,0,No DR
+11439_right,0,No DR
+11443_left,1,Mild
+11443_right,0,No DR
+11444_left,0,No DR
+11444_right,0,No DR
+11445_left,0,No DR
+11445_right,0,No DR
+11446_left,1,Mild
+11446_right,0,No DR
+11448_left,0,No DR
+11448_right,0,No DR
+11455_left,0,No DR
+11455_right,2,Moderate
+11462_left,2,Moderate
+11462_right,2,Moderate
+11464_left,0,No DR
+11464_right,0,No DR
+11471_left,0,No DR
+11471_right,0,No DR
+11474_left,0,No DR
+11474_right,0,No DR
+11476_left,0,No DR
+11476_right,0,No DR
+11482_left,0,No DR
+11482_right,0,No DR
+11484_left,0,No DR
+11484_right,0,No DR
+11485_left,0,No DR
+11485_right,0,No DR
+11487_left,0,No DR
+11487_right,0,No DR
+11490_left,0,No DR
+11490_right,0,No DR
+11492_left,4,Proliferative DR
+11492_right,4,Proliferative DR
+11494_left,0,No DR
+11494_right,0,No DR
+11495_left,0,No DR
+11495_right,1,Mild
+11496_left,2,Moderate
+11496_right,2,Moderate
+11500_left,1,Mild
+11500_right,1,Mild
+11503_left,2,Moderate
+11503_right,2,Moderate
+11504_left,0,No DR
+11504_right,0,No DR
+11505_left,1,Mild
+11505_right,1,Mild
+11512_left,0,No DR
+11512_right,0,No DR
+11516_left,1,Mild
+11516_right,0,No DR
+11519_left,0,No DR
+11519_right,0,No DR
+11520_left,0,No DR
+11520_right,0,No DR
+11526_left,1,Mild
+11526_right,1,Mild
+11527_left,0,No DR
+11527_right,0,No DR
+11529_left,3,Severe
+11529_right,3,Severe
+11534_left,0,No DR
+11534_right,0,No DR
+11539_left,2,Moderate
+11539_right,2,Moderate
+11541_left,0,No DR
+11541_right,0,No DR
+11542_left,0,No DR
+11542_right,0,No DR
+11543_left,0,No DR
+11543_right,0,No DR
+11545_left,0,No DR
+11545_right,0,No DR
+11546_left,3,Severe
+11546_right,3,Severe
+11547_left,1,Mild
+11547_right,1,Mild
+11550_left,0,No DR
+11550_right,0,No DR
+11551_left,0,No DR
+11551_right,0,No DR
+11553_left,0,No DR
+11553_right,0,No DR
+11555_left,0,No DR
+11555_right,0,No DR
+11573_left,0,No DR
+11573_right,0,No DR
+11574_left,0,No DR
+11574_right,0,No DR
+11575_left,0,No DR
+11575_right,0,No DR
+11579_left,0,No DR
+11579_right,0,No DR
+11581_left,0,No DR
+11581_right,0,No DR
+11584_left,0,No DR
+11584_right,0,No DR
+11590_left,3,Severe
+11590_right,3,Severe
+11593_left,0,No DR
+11593_right,0,No DR
+11594_left,0,No DR
+11594_right,0,No DR
+11598_left,0,No DR
+11598_right,0,No DR
+11600_left,0,No DR
+11600_right,0,No DR
+11601_left,0,No DR
+11601_right,0,No DR
+11603_left,0,No DR
+11603_right,0,No DR
+11605_left,0,No DR
+11605_right,0,No DR
+11607_left,0,No DR
+11607_right,0,No DR
+11610_left,0,No DR
+11610_right,0,No DR
+11612_left,0,No DR
+11612_right,0,No DR
+11616_left,0,No DR
+11616_right,0,No DR
+11618_left,0,No DR
+11618_right,1,Mild
+11619_left,0,No DR
+11619_right,0,No DR
+11623_left,2,Moderate
+11623_right,2,Moderate
+11624_left,0,No DR
+11624_right,2,Moderate
+11625_left,2,Moderate
+11625_right,2,Moderate
+11626_left,0,No DR
+11626_right,0,No DR
+11630_left,0,No DR
+11630_right,0,No DR
+11631_left,0,No DR
+11631_right,0,No DR
+11638_left,0,No DR
+11638_right,0,No DR
+11639_left,0,No DR
+11639_right,0,No DR
+11640_left,0,No DR
+11640_right,0,No DR
+11642_left,0,No DR
+11642_right,0,No DR
+11645_left,0,No DR
+11645_right,0,No DR
+11646_left,2,Moderate
+11646_right,2,Moderate
+11647_left,2,Moderate
+11647_right,2,Moderate
+11648_left,2,Moderate
+11648_right,2,Moderate
+11649_left,2,Moderate
+11649_right,2,Moderate
+11650_left,2,Moderate
+11650_right,2,Moderate
+11651_left,2,Moderate
+11651_right,2,Moderate
+11652_left,0,No DR
+11652_right,0,No DR
+11655_left,0,No DR
+11655_right,0,No DR
+11661_left,2,Moderate
+11661_right,2,Moderate
+11665_left,0,No DR
+11665_right,0,No DR
+11677_left,0,No DR
+11677_right,0,No DR
+11679_left,0,No DR
+11679_right,0,No DR
+11684_left,0,No DR
+11684_right,0,No DR
+11691_left,0,No DR
+11691_right,0,No DR
+11697_left,2,Moderate
+11697_right,3,Severe
+11698_left,2,Moderate
+11698_right,2,Moderate
+11703_left,2,Moderate
+11703_right,2,Moderate
+11704_left,0,No DR
+11704_right,0,No DR
+11707_left,0,No DR
+11707_right,0,No DR
+11717_left,0,No DR
+11717_right,0,No DR
+11719_left,0,No DR
+11719_right,0,No DR
+11720_left,0,No DR
+11720_right,0,No DR
+11724_left,1,Mild
+11724_right,2,Moderate
+11726_left,0,No DR
+11726_right,0,No DR
+11727_left,0,No DR
+11727_right,0,No DR
+11730_left,0,No DR
+11730_right,4,Proliferative DR
+11734_left,3,Severe
+11734_right,2,Moderate
+11736_left,1,Mild
+11736_right,0,No DR
+11738_left,1,Mild
+11738_right,0,No DR
+11740_left,1,Mild
+11740_right,2,Moderate
+11741_left,0,No DR
+11741_right,0,No DR
+11744_left,0,No DR
+11744_right,0,No DR
+11749_left,0,No DR
+11749_right,0,No DR
+11750_left,0,No DR
+11750_right,0,No DR
+11754_left,0,No DR
+11754_right,0,No DR
+11758_left,1,Mild
+11758_right,1,Mild
+11759_left,2,Moderate
+11759_right,2,Moderate
+11760_left,0,No DR
+11760_right,0,No DR
+11768_left,0,No DR
+11768_right,0,No DR
+11770_left,2,Moderate
+11770_right,2,Moderate
+11772_left,2,Moderate
+11772_right,2,Moderate
+11773_left,0,No DR
+11773_right,0,No DR
+11775_left,0,No DR
+11775_right,0,No DR
+11776_left,2,Moderate
+11776_right,2,Moderate
+11778_left,0,No DR
+11778_right,0,No DR
+11779_left,1,Mild
+11779_right,0,No DR
+11780_left,0,No DR
+11780_right,0,No DR
+11781_left,0,No DR
+11781_right,0,No DR
+11786_left,0,No DR
+11786_right,0,No DR
+11789_left,0,No DR
+11789_right,0,No DR
+11790_left,2,Moderate
+11790_right,2,Moderate
+11791_left,0,No DR
+11791_right,0,No DR
+11793_left,0,No DR
+11793_right,0,No DR
+11796_left,0,No DR
+11796_right,0,No DR
+11802_left,0,No DR
+11802_right,0,No DR
+11805_left,0,No DR
+11805_right,0,No DR
+11807_left,4,Proliferative DR
+11807_right,0,No DR
+11808_left,0,No DR
+11808_right,0,No DR
+11811_left,0,No DR
+11811_right,0,No DR
+11815_left,2,Moderate
+11815_right,1,Mild
+11816_left,0,No DR
+11816_right,0,No DR
+11817_left,0,No DR
+11817_right,0,No DR
+11818_left,1,Mild
+11818_right,1,Mild
+11819_left,1,Mild
+11819_right,1,Mild
+11823_left,2,Moderate
+11823_right,2,Moderate
+11824_left,0,No DR
+11824_right,0,No DR
+11826_left,0,No DR
+11826_right,2,Moderate
+11828_left,0,No DR
+11828_right,0,No DR
+11829_left,0,No DR
+11829_right,0,No DR
+11830_left,0,No DR
+11830_right,0,No DR
+11832_left,0,No DR
+11832_right,0,No DR
+11833_left,0,No DR
+11833_right,0,No DR
+11838_left,0,No DR
+11838_right,0,No DR
+11840_left,0,No DR
+11840_right,0,No DR
+11845_left,0,No DR
+11845_right,0,No DR
+11847_left,2,Moderate
+11847_right,2,Moderate
+11849_left,0,No DR
+11849_right,0,No DR
+11854_left,4,Proliferative DR
+11854_right,4,Proliferative DR
+11855_left,0,No DR
+11855_right,0,No DR
+11856_left,0,No DR
+11856_right,0,No DR
+11858_left,3,Severe
+11858_right,3,Severe
+11863_left,2,Moderate
+11863_right,2,Moderate
+11866_left,0,No DR
+11866_right,0,No DR
+11870_left,0,No DR
+11870_right,0,No DR
+11871_left,3,Severe
+11871_right,0,No DR
+11874_left,4,Proliferative DR
+11874_right,4,Proliferative DR
+11888_left,0,No DR
+11888_right,0,No DR
+11889_left,3,Severe
+11889_right,3,Severe
+11890_left,0,No DR
+11890_right,0,No DR
+11894_left,0,No DR
+11894_right,0,No DR
+11896_left,4,Proliferative DR
+11896_right,4,Proliferative DR
+11899_left,0,No DR
+11899_right,0,No DR
+11900_left,0,No DR
+11900_right,0,No DR
+11903_left,0,No DR
+11903_right,0,No DR
+11904_left,0,No DR
+11904_right,0,No DR
+11909_left,0,No DR
+11909_right,0,No DR
+11910_left,2,Moderate
+11910_right,2,Moderate
+11913_left,0,No DR
+11913_right,0,No DR
+11914_left,0,No DR
+11914_right,0,No DR
+11915_left,1,Mild
+11915_right,0,No DR
+11916_left,0,No DR
+11916_right,0,No DR
+11920_left,0,No DR
+11920_right,0,No DR
+11923_left,2,Moderate
+11923_right,2,Moderate
+11926_left,0,No DR
+11926_right,0,No DR
+11929_left,1,Mild
+11929_right,1,Mild
+11930_left,0,No DR
+11930_right,0,No DR
+11935_left,0,No DR
+11935_right,0,No DR
+11937_left,0,No DR
+11937_right,1,Mild
+11940_left,0,No DR
+11940_right,0,No DR
+11942_left,0,No DR
+11942_right,0,No DR
+11943_left,0,No DR
+11943_right,0,No DR
+11946_left,0,No DR
+11946_right,0,No DR
+11949_left,0,No DR
+11949_right,0,No DR
+11952_left,0,No DR
+11952_right,0,No DR
+11953_left,0,No DR
+11953_right,0,No DR
+11956_left,0,No DR
+11956_right,0,No DR
+11957_left,0,No DR
+11957_right,0,No DR
+11959_left,1,Mild
+11959_right,1,Mild
+11962_left,2,Moderate
+11962_right,2,Moderate
+11965_left,2,Moderate
+11965_right,2,Moderate
+11966_left,0,No DR
+11966_right,0,No DR
+11968_left,0,No DR
+11968_right,0,No DR
+11970_left,0,No DR
+11970_right,0,No DR
+11971_left,0,No DR
+11971_right,0,No DR
+11974_left,0,No DR
+11974_right,0,No DR
+11975_left,2,Moderate
+11975_right,0,No DR
+11980_left,1,Mild
+11980_right,1,Mild
+11982_left,0,No DR
+11982_right,0,No DR
+11983_left,1,Mild
+11983_right,2,Moderate
+11988_left,2,Moderate
+11988_right,2,Moderate
+11989_left,0,No DR
+11989_right,0,No DR
+11990_left,0,No DR
+11990_right,0,No DR
+11992_left,0,No DR
+11992_right,0,No DR
+11995_left,1,Mild
+11995_right,1,Mild
+11996_left,0,No DR
+11996_right,0,No DR
+11997_left,0,No DR
+11997_right,0,No DR
+12000_left,3,Severe
+12000_right,2,Moderate
+12001_left,0,No DR
+12001_right,0,No DR
+12003_left,2,Moderate
+12003_right,2,Moderate
+12005_left,2,Moderate
+12005_right,2,Moderate
+12010_left,0,No DR
+12010_right,0,No DR
+12014_left,3,Severe
+12014_right,4,Proliferative DR
+12018_left,0,No DR
+12018_right,1,Mild
+12023_left,0,No DR
+12023_right,0,No DR
+12026_left,0,No DR
+12026_right,0,No DR
+12027_left,0,No DR
+12027_right,0,No DR
+12031_left,0,No DR
+12031_right,0,No DR
+12036_left,2,Moderate
+12036_right,2,Moderate
+12040_left,0,No DR
+12040_right,0,No DR
+12042_left,2,Moderate
+12042_right,1,Mild
+12056_left,0,No DR
+12056_right,0,No DR
+12058_left,0,No DR
+12058_right,0,No DR
+12061_left,0,No DR
+12061_right,0,No DR
+12063_left,1,Mild
+12063_right,0,No DR
+12067_left,0,No DR
+12067_right,0,No DR
+12068_left,0,No DR
+12068_right,0,No DR
+12070_left,0,No DR
+12070_right,1,Mild
+12072_left,0,No DR
+12072_right,0,No DR
+12074_left,0,No DR
+12074_right,0,No DR
+12075_left,0,No DR
+12075_right,0,No DR
+12076_left,0,No DR
+12076_right,0,No DR
+12079_left,0,No DR
+12079_right,0,No DR
+12082_left,2,Moderate
+12082_right,2,Moderate
+12086_left,0,No DR
+12086_right,0,No DR
+12089_left,2,Moderate
+12089_right,2,Moderate
+12092_left,2,Moderate
+12092_right,2,Moderate
+12095_left,0,No DR
+12095_right,0,No DR
+12098_left,0,No DR
+12098_right,1,Mild
+12100_left,0,No DR
+12100_right,0,No DR
+12101_left,2,Moderate
+12101_right,2,Moderate
+12103_left,0,No DR
+12103_right,0,No DR
+12104_left,0,No DR
+12104_right,0,No DR
+12105_left,0,No DR
+12105_right,0,No DR
+12106_left,0,No DR
+12106_right,0,No DR
+12107_left,0,No DR
+12107_right,0,No DR
+12108_left,4,Proliferative DR
+12108_right,4,Proliferative DR
+12110_left,0,No DR
+12110_right,0,No DR
+12111_left,0,No DR
+12111_right,2,Moderate
+12114_left,1,Mild
+12114_right,0,No DR
+12119_left,0,No DR
+12119_right,0,No DR
+12124_left,0,No DR
+12124_right,0,No DR
+12126_left,0,No DR
+12126_right,0,No DR
+12127_left,0,No DR
+12127_right,0,No DR
+12128_left,0,No DR
+12128_right,0,No DR
+12129_left,0,No DR
+12129_right,2,Moderate
+12133_left,0,No DR
+12133_right,0,No DR
+12139_left,1,Mild
+12139_right,1,Mild
+12140_left,0,No DR
+12140_right,0,No DR
+12141_left,0,No DR
+12141_right,0,No DR
+12144_left,1,Mild
+12144_right,0,No DR
+12146_left,0,No DR
+12146_right,0,No DR
+12147_left,0,No DR
+12147_right,0,No DR
+12148_left,0,No DR
+12148_right,0,No DR
+12149_left,3,Severe
+12149_right,3,Severe
+12154_left,0,No DR
+12154_right,0,No DR
+12155_left,0,No DR
+12155_right,0,No DR
+12156_left,0,No DR
+12156_right,0,No DR
+12157_left,0,No DR
+12157_right,0,No DR
+12159_left,0,No DR
+12159_right,0,No DR
+12168_left,0,No DR
+12168_right,0,No DR
+12170_left,1,Mild
+12170_right,1,Mild
+12171_left,0,No DR
+12171_right,0,No DR
+12175_left,0,No DR
+12175_right,0,No DR
+12176_left,0,No DR
+12176_right,0,No DR
+12179_left,0,No DR
+12179_right,0,No DR
+12182_left,0,No DR
+12182_right,0,No DR
+12187_left,0,No DR
+12187_right,0,No DR
+12193_left,0,No DR
+12193_right,0,No DR
+12194_left,0,No DR
+12194_right,0,No DR
+12205_left,0,No DR
+12205_right,0,No DR
+12206_left,0,No DR
+12206_right,0,No DR
+12208_left,3,Severe
+12208_right,3,Severe
+12209_left,0,No DR
+12209_right,0,No DR
+12210_left,0,No DR
+12210_right,0,No DR
+12211_left,0,No DR
+12211_right,2,Moderate
+12213_left,0,No DR
+12213_right,0,No DR
+12214_left,0,No DR
+12214_right,0,No DR
+12215_left,0,No DR
+12215_right,0,No DR
+12216_left,0,No DR
+12216_right,0,No DR
+12225_left,0,No DR
+12225_right,0,No DR
+12227_left,1,Mild
+12227_right,1,Mild
+12231_left,0,No DR
+12231_right,0,No DR
+12232_left,0,No DR
+12232_right,0,No DR
+12233_left,1,Mild
+12233_right,0,No DR
+12238_left,0,No DR
+12238_right,0,No DR
+12239_left,0,No DR
+12239_right,0,No DR
+12241_left,1,Mild
+12241_right,0,No DR
+12246_left,0,No DR
+12246_right,0,No DR
+12247_left,0,No DR
+12247_right,0,No DR
+12255_left,0,No DR
+12255_right,0,No DR
+12256_left,0,No DR
+12256_right,0,No DR
+12257_left,2,Moderate
+12257_right,2,Moderate
+12258_left,0,No DR
+12258_right,0,No DR
+12260_left,0,No DR
+12260_right,0,No DR
+12264_left,0,No DR
+12264_right,0,No DR
+12268_left,2,Moderate
+12268_right,1,Mild
+12271_left,2,Moderate
+12271_right,2,Moderate
+12278_left,1,Mild
+12278_right,1,Mild
+12279_left,3,Severe
+12279_right,3,Severe
+12286_left,2,Moderate
+12286_right,2,Moderate
+12287_left,0,No DR
+12287_right,0,No DR
+12289_left,0,No DR
+12289_right,0,No DR
+12290_left,2,Moderate
+12290_right,2,Moderate
+12292_left,0,No DR
+12292_right,0,No DR
+12294_left,0,No DR
+12294_right,0,No DR
+12295_left,0,No DR
+12295_right,0,No DR
+12299_left,2,Moderate
+12299_right,0,No DR
+12301_left,2,Moderate
+12301_right,2,Moderate
+12303_left,0,No DR
+12303_right,0,No DR
+12305_left,0,No DR
+12305_right,0,No DR
+12306_left,3,Severe
+12306_right,2,Moderate
+12307_left,0,No DR
+12307_right,0,No DR
+12311_left,1,Mild
+12311_right,1,Mild
+12313_left,0,No DR
+12313_right,0,No DR
+12316_left,2,Moderate
+12316_right,0,No DR
+12320_left,0,No DR
+12320_right,0,No DR
+12321_left,0,No DR
+12321_right,0,No DR
+12325_left,2,Moderate
+12325_right,2,Moderate
+12326_left,0,No DR
+12326_right,0,No DR
+12327_left,0,No DR
+12327_right,0,No DR
+12329_left,2,Moderate
+12329_right,2,Moderate
+12333_left,0,No DR
+12333_right,0,No DR
+12335_left,0,No DR
+12335_right,0,No DR
+12339_left,0,No DR
+12339_right,0,No DR
+12348_left,0,No DR
+12348_right,0,No DR
+12349_left,0,No DR
+12349_right,0,No DR
+12352_left,0,No DR
+12352_right,0,No DR
+12353_left,0,No DR
+12353_right,0,No DR
+12356_left,0,No DR
+12356_right,0,No DR
+12362_left,0,No DR
+12362_right,0,No DR
+12370_left,0,No DR
+12370_right,2,Moderate
+12372_left,1,Mild
+12372_right,2,Moderate
+12378_left,0,No DR
+12378_right,0,No DR
+12382_left,0,No DR
+12382_right,0,No DR
+12386_left,2,Moderate
+12386_right,1,Mild
+12392_left,1,Mild
+12392_right,0,No DR
+12395_left,0,No DR
+12395_right,0,No DR
+12396_left,0,No DR
+12396_right,0,No DR
+12397_left,1,Mild
+12397_right,1,Mild
+12399_left,0,No DR
+12399_right,0,No DR
+12400_left,0,No DR
+12400_right,2,Moderate
+12403_left,0,No DR
+12403_right,0,No DR
+12404_left,0,No DR
+12404_right,0,No DR
+12409_left,0,No DR
+12409_right,0,No DR
+12410_left,2,Moderate
+12410_right,2,Moderate
+12411_left,0,No DR
+12411_right,0,No DR
+12413_left,0,No DR
+12413_right,0,No DR
+12417_left,0,No DR
+12417_right,0,No DR
+12418_left,0,No DR
+12418_right,0,No DR
+12419_left,4,Proliferative DR
+12419_right,4,Proliferative DR
+12425_left,0,No DR
+12425_right,0,No DR
+12428_left,0,No DR
+12428_right,0,No DR
+12429_left,0,No DR
+12429_right,0,No DR
+12432_left,0,No DR
+12432_right,0,No DR
+12433_left,0,No DR
+12433_right,0,No DR
+12434_left,2,Moderate
+12434_right,2,Moderate
+12436_left,0,No DR
+12436_right,0,No DR
+12437_left,0,No DR
+12437_right,0,No DR
+12441_left,2,Moderate
+12441_right,2,Moderate
+12444_left,1,Mild
+12444_right,0,No DR
+12445_left,2,Moderate
+12445_right,2,Moderate
+12447_left,0,No DR
+12447_right,0,No DR
+12448_left,0,No DR
+12448_right,0,No DR
+12450_left,0,No DR
+12450_right,0,No DR
+12451_left,2,Moderate
+12451_right,2,Moderate
+12452_left,1,Mild
+12452_right,0,No DR
+12458_left,0,No DR
+12458_right,0,No DR
+12460_left,0,No DR
+12460_right,0,No DR
+12461_left,0,No DR
+12461_right,0,No DR
+12464_left,0,No DR
+12464_right,0,No DR
+12468_left,0,No DR
+12468_right,0,No DR
+12469_left,0,No DR
+12469_right,0,No DR
+12471_left,0,No DR
+12471_right,0,No DR
+12472_left,0,No DR
+12472_right,0,No DR
+12474_left,0,No DR
+12474_right,0,No DR
+12476_left,0,No DR
+12476_right,0,No DR
+12478_left,0,No DR
+12478_right,2,Moderate
+12480_left,2,Moderate
+12480_right,2,Moderate
+12481_left,2,Moderate
+12481_right,2,Moderate
+12484_left,0,No DR
+12484_right,0,No DR
+12488_left,0,No DR
+12488_right,0,No DR
+12490_left,2,Moderate
+12490_right,3,Severe
+12491_left,0,No DR
+12491_right,0,No DR
+12492_left,2,Moderate
+12492_right,2,Moderate
+12496_left,0,No DR
+12496_right,1,Mild
+12503_left,2,Moderate
+12503_right,0,No DR
+12506_left,0,No DR
+12506_right,0,No DR
+12511_left,0,No DR
+12511_right,0,No DR
+12513_left,0,No DR
+12513_right,0,No DR
+12514_left,2,Moderate
+12514_right,1,Mild
+12515_left,0,No DR
+12515_right,1,Mild
+12519_left,0,No DR
+12519_right,0,No DR
+12521_left,0,No DR
+12521_right,0,No DR
+12523_left,0,No DR
+12523_right,0,No DR
+12525_left,2,Moderate
+12525_right,2,Moderate
+12527_left,0,No DR
+12527_right,0,No DR
+12533_left,0,No DR
+12533_right,0,No DR
+12536_left,2,Moderate
+12536_right,2,Moderate
+12539_left,0,No DR
+12539_right,2,Moderate
+12546_left,0,No DR
+12546_right,0,No DR
+12547_left,1,Mild
+12547_right,1,Mild
+12553_left,0,No DR
+12553_right,0,No DR
+12554_left,1,Mild
+12554_right,1,Mild
+12560_left,0,No DR
+12560_right,0,No DR
+12561_left,0,No DR
+12561_right,0,No DR
+12563_left,1,Mild
+12563_right,2,Moderate
+12565_left,0,No DR
+12565_right,0,No DR
+12567_left,2,Moderate
+12567_right,2,Moderate
+12568_left,0,No DR
+12568_right,0,No DR
+12573_left,0,No DR
+12573_right,0,No DR
+12575_left,0,No DR
+12575_right,2,Moderate
+12577_left,1,Mild
+12577_right,1,Mild
+12581_left,0,No DR
+12581_right,0,No DR
+12586_left,0,No DR
+12586_right,0,No DR
+12587_left,2,Moderate
+12587_right,2,Moderate
+12589_left,2,Moderate
+12589_right,0,No DR
+12590_left,2,Moderate
+12590_right,2,Moderate
+12591_left,0,No DR
+12591_right,0,No DR
+12595_left,0,No DR
+12595_right,0,No DR
+12596_left,0,No DR
+12596_right,0,No DR
+12597_left,0,No DR
+12597_right,0,No DR
+12602_left,0,No DR
+12602_right,0,No DR
+12604_left,0,No DR
+12604_right,0,No DR
+12606_left,0,No DR
+12606_right,0,No DR
+12608_left,0,No DR
+12608_right,0,No DR
+12612_left,3,Severe
+12612_right,3,Severe
+12614_left,2,Moderate
+12614_right,1,Mild
+12616_left,0,No DR
+12616_right,0,No DR
+12618_left,0,No DR
+12618_right,0,No DR
+12620_left,0,No DR
+12620_right,0,No DR
+12623_left,0,No DR
+12623_right,0,No DR
+12624_left,0,No DR
+12624_right,0,No DR
+12626_left,0,No DR
+12626_right,0,No DR
+12628_left,2,Moderate
+12628_right,2,Moderate
+12629_left,0,No DR
+12629_right,0,No DR
+12630_left,2,Moderate
+12630_right,2,Moderate
+12631_left,0,No DR
+12631_right,0,No DR
+12633_left,0,No DR
+12633_right,0,No DR
+12639_left,0,No DR
+12639_right,0,No DR
+12641_left,0,No DR
+12641_right,0,No DR
+12642_left,0,No DR
+12642_right,0,No DR
+12643_left,0,No DR
+12643_right,0,No DR
+12645_left,0,No DR
+12645_right,0,No DR
+12646_left,0,No DR
+12646_right,0,No DR
+12649_left,0,No DR
+12649_right,0,No DR
+12650_left,2,Moderate
+12650_right,2,Moderate
+12651_left,0,No DR
+12651_right,0,No DR
+12652_left,4,Proliferative DR
+12652_right,3,Severe
+12653_left,0,No DR
+12653_right,0,No DR
+12654_left,0,No DR
+12654_right,2,Moderate
+12655_left,0,No DR
+12655_right,0,No DR
+12656_left,0,No DR
+12656_right,0,No DR
+12660_left,0,No DR
+12660_right,0,No DR
+12662_left,0,No DR
+12662_right,0,No DR
+12666_left,2,Moderate
+12666_right,2,Moderate
+12667_left,3,Severe
+12667_right,3,Severe
+12672_left,2,Moderate
+12672_right,2,Moderate
+12673_left,0,No DR
+12673_right,0,No DR
+12675_left,0,No DR
+12675_right,1,Mild
+12676_left,1,Mild
+12676_right,1,Mild
+12678_left,0,No DR
+12678_right,0,No DR
+12680_left,0,No DR
+12680_right,0,No DR
+12681_left,0,No DR
+12681_right,0,No DR
+12683_left,1,Mild
+12683_right,1,Mild
+12687_left,0,No DR
+12687_right,0,No DR
+12689_left,0,No DR
+12689_right,0,No DR
+12694_left,0,No DR
+12694_right,0,No DR
+12699_left,2,Moderate
+12699_right,2,Moderate
+12700_left,0,No DR
+12700_right,0,No DR
+12707_left,0,No DR
+12707_right,0,No DR
+12708_left,0,No DR
+12708_right,0,No DR
+12709_left,0,No DR
+12709_right,2,Moderate
+12712_left,0,No DR
+12712_right,0,No DR
+12714_left,0,No DR
+12714_right,0,No DR
+12715_left,0,No DR
+12715_right,0,No DR
+12716_left,0,No DR
+12716_right,0,No DR
+12721_left,0,No DR
+12721_right,0,No DR
+12724_left,0,No DR
+12724_right,0,No DR
+12725_left,0,No DR
+12725_right,0,No DR
+12729_left,0,No DR
+12729_right,0,No DR
+12731_left,0,No DR
+12731_right,0,No DR
+12734_left,2,Moderate
+12734_right,2,Moderate
+12735_left,0,No DR
+12735_right,0,No DR
+12739_left,2,Moderate
+12739_right,2,Moderate
+12741_left,0,No DR
+12741_right,0,No DR
+12743_left,2,Moderate
+12743_right,2,Moderate
+12745_left,0,No DR
+12745_right,0,No DR
+12746_left,0,No DR
+12746_right,0,No DR
+12751_left,0,No DR
+12751_right,0,No DR
+12752_left,0,No DR
+12752_right,0,No DR
+12754_left,0,No DR
+12754_right,0,No DR
+12756_left,2,Moderate
+12756_right,2,Moderate
+12759_left,0,No DR
+12759_right,0,No DR
+12761_left,0,No DR
+12761_right,0,No DR
+12764_left,0,No DR
+12764_right,2,Moderate
+12769_left,0,No DR
+12769_right,0,No DR
+12770_left,0,No DR
+12770_right,0,No DR
+12775_left,2,Moderate
+12775_right,2,Moderate
+12778_left,0,No DR
+12778_right,0,No DR
+12779_left,0,No DR
+12779_right,0,No DR
+12783_left,0,No DR
+12783_right,0,No DR
+12787_left,0,No DR
+12787_right,0,No DR
+12789_left,2,Moderate
+12789_right,2,Moderate
+12790_left,0,No DR
+12790_right,0,No DR
+12792_left,0,No DR
+12792_right,0,No DR
+12793_left,0,No DR
+12793_right,0,No DR
+12794_left,0,No DR
+12794_right,0,No DR
+12795_left,1,Mild
+12795_right,2,Moderate
+12798_left,2,Moderate
+12798_right,1,Mild
+12799_left,0,No DR
+12799_right,0,No DR
+12804_left,0,No DR
+12804_right,2,Moderate
+12805_left,2,Moderate
+12805_right,2,Moderate
+12806_left,0,No DR
+12806_right,0,No DR
+12810_left,1,Mild
+12810_right,2,Moderate
+12811_left,0,No DR
+12811_right,0,No DR
+12815_left,0,No DR
+12815_right,0,No DR
+12817_left,0,No DR
+12817_right,0,No DR
+12822_left,0,No DR
+12822_right,0,No DR
+12827_left,0,No DR
+12827_right,0,No DR
+12831_left,1,Mild
+12831_right,2,Moderate
+12835_left,2,Moderate
+12835_right,2,Moderate
+12838_left,0,No DR
+12838_right,0,No DR
+12839_left,2,Moderate
+12839_right,2,Moderate
+12842_left,0,No DR
+12842_right,0,No DR
+12844_left,0,No DR
+12844_right,0,No DR
+12847_left,0,No DR
+12847_right,0,No DR
+12848_left,0,No DR
+12848_right,0,No DR
+12849_left,0,No DR
+12849_right,0,No DR
+12851_left,0,No DR
+12851_right,0,No DR
+12857_left,2,Moderate
+12857_right,2,Moderate
+12859_left,2,Moderate
+12859_right,2,Moderate
+12861_left,4,Proliferative DR
+12861_right,4,Proliferative DR
+12863_left,0,No DR
+12863_right,0,No DR
+12865_left,0,No DR
+12865_right,0,No DR
+12866_left,0,No DR
+12866_right,0,No DR
+12867_left,0,No DR
+12867_right,0,No DR
+12868_left,0,No DR
+12868_right,0,No DR
+12870_left,0,No DR
+12870_right,0,No DR
+12871_left,0,No DR
+12871_right,0,No DR
+12872_left,2,Moderate
+12872_right,1,Mild
+12876_left,0,No DR
+12876_right,0,No DR
+12878_left,1,Mild
+12878_right,0,No DR
+12881_left,3,Severe
+12881_right,3,Severe
+12882_left,0,No DR
+12882_right,0,No DR
+12895_left,2,Moderate
+12895_right,0,No DR
+12900_left,0,No DR
+12900_right,0,No DR
+12903_left,2,Moderate
+12903_right,1,Mild
+12904_left,0,No DR
+12904_right,0,No DR
+12907_left,0,No DR
+12907_right,0,No DR
+12910_left,0,No DR
+12910_right,0,No DR
+12912_left,0,No DR
+12912_right,2,Moderate
+12915_left,0,No DR
+12915_right,0,No DR
+12917_left,0,No DR
+12917_right,0,No DR
+12918_left,0,No DR
+12918_right,0,No DR
+12920_left,0,No DR
+12920_right,0,No DR
+12922_left,1,Mild
+12922_right,0,No DR
+12923_left,0,No DR
+12923_right,0,No DR
+12924_left,1,Mild
+12924_right,0,No DR
+12929_left,2,Moderate
+12929_right,2,Moderate
+12931_left,2,Moderate
+12931_right,2,Moderate
+12933_left,0,No DR
+12933_right,0,No DR
+12934_left,0,No DR
+12934_right,0,No DR
+12937_left,0,No DR
+12937_right,0,No DR
+12938_left,0,No DR
+12938_right,0,No DR
+12941_left,0,No DR
+12941_right,0,No DR
+12944_left,2,Moderate
+12944_right,2,Moderate
+12945_left,0,No DR
+12945_right,0,No DR
+12946_left,0,No DR
+12946_right,0,No DR
+12947_left,0,No DR
+12947_right,0,No DR
+12948_left,0,No DR
+12948_right,2,Moderate
+12950_left,0,No DR
+12950_right,0,No DR
+12951_left,2,Moderate
+12951_right,2,Moderate
+12954_left,0,No DR
+12954_right,0,No DR
+12955_left,0,No DR
+12955_right,0,No DR
+12958_left,0,No DR
+12958_right,0,No DR
+12965_left,0,No DR
+12965_right,0,No DR
+12967_left,0,No DR
+12967_right,0,No DR
+12968_left,0,No DR
+12968_right,0,No DR
+12970_left,0,No DR
+12970_right,0,No DR
+12971_left,0,No DR
+12971_right,0,No DR
+12974_left,0,No DR
+12974_right,0,No DR
+12975_left,0,No DR
+12975_right,0,No DR
+12977_left,0,No DR
+12977_right,0,No DR
+12979_left,0,No DR
+12979_right,0,No DR
+12985_left,0,No DR
+12985_right,0,No DR
+12986_left,0,No DR
+12986_right,0,No DR
+12988_left,2,Moderate
+12988_right,2,Moderate
+12990_left,2,Moderate
+12990_right,1,Mild
+12991_left,0,No DR
+12991_right,0,No DR
+12992_left,2,Moderate
+12992_right,2,Moderate
+12995_left,4,Proliferative DR
+12995_right,3,Severe
+12998_left,0,No DR
+12998_right,0,No DR
+13002_left,2,Moderate
+13002_right,2,Moderate
+13005_left,2,Moderate
+13005_right,2,Moderate
+13006_left,0,No DR
+13006_right,0,No DR
+13008_left,0,No DR
+13008_right,0,No DR
+13012_left,2,Moderate
+13012_right,2,Moderate
+13013_left,0,No DR
+13013_right,0,No DR
+13014_left,0,No DR
+13014_right,0,No DR
+13015_left,2,Moderate
+13015_right,2,Moderate
+13016_left,0,No DR
+13016_right,0,No DR
+13017_left,0,No DR
+13017_right,0,No DR
+13019_left,0,No DR
+13019_right,0,No DR
+13022_left,3,Severe
+13022_right,4,Proliferative DR
+13025_left,0,No DR
+13025_right,0,No DR
+13027_left,0,No DR
+13027_right,1,Mild
+13029_left,2,Moderate
+13029_right,0,No DR
+13031_left,1,Mild
+13031_right,1,Mild
+13033_left,0,No DR
+13033_right,0,No DR
+13036_left,0,No DR
+13036_right,0,No DR
+13038_left,2,Moderate
+13038_right,4,Proliferative DR
+13041_left,0,No DR
+13041_right,0,No DR
+13042_left,0,No DR
+13042_right,0,No DR
+13043_left,1,Mild
+13043_right,1,Mild
+13051_left,2,Moderate
+13051_right,0,No DR
+13052_left,0,No DR
+13052_right,0,No DR
+13054_left,0,No DR
+13054_right,0,No DR
+13058_left,0,No DR
+13058_right,0,No DR
+13062_left,0,No DR
+13062_right,0,No DR
+13064_left,0,No DR
+13064_right,0,No DR
+13065_left,0,No DR
+13065_right,0,No DR
+13066_left,2,Moderate
+13066_right,4,Proliferative DR
+13069_left,0,No DR
+13069_right,0,No DR
+13075_left,0,No DR
+13075_right,0,No DR
+13078_left,0,No DR
+13078_right,0,No DR
+13081_left,0,No DR
+13081_right,0,No DR
+13085_left,0,No DR
+13085_right,0,No DR
+13089_left,0,No DR
+13089_right,0,No DR
+13094_left,0,No DR
+13094_right,0,No DR
+13095_left,0,No DR
+13095_right,0,No DR
+13099_left,2,Moderate
+13099_right,2,Moderate
+13100_left,0,No DR
+13100_right,0,No DR
+13101_left,0,No DR
+13101_right,0,No DR
+13103_left,0,No DR
+13103_right,0,No DR
+13106_left,0,No DR
+13106_right,0,No DR
+13112_left,2,Moderate
+13112_right,2,Moderate
+13113_left,0,No DR
+13113_right,0,No DR
+13116_left,0,No DR
+13116_right,0,No DR
+13122_left,0,No DR
+13122_right,0,No DR
+13125_left,2,Moderate
+13125_right,2,Moderate
+13126_left,1,Mild
+13126_right,2,Moderate
+13128_left,0,No DR
+13128_right,0,No DR
+13130_left,0,No DR
+13130_right,0,No DR
+13132_left,0,No DR
+13132_right,0,No DR
+13133_left,0,No DR
+13133_right,0,No DR
+13136_left,0,No DR
+13136_right,0,No DR
+13137_left,0,No DR
+13137_right,0,No DR
+13144_left,0,No DR
+13144_right,0,No DR
+13146_left,0,No DR
+13146_right,0,No DR
+13147_left,0,No DR
+13147_right,0,No DR
+13150_left,0,No DR
+13150_right,0,No DR
+13156_left,0,No DR
+13156_right,0,No DR
+13158_left,1,Mild
+13158_right,0,No DR
+13160_left,0,No DR
+13160_right,0,No DR
+13161_left,2,Moderate
+13161_right,2,Moderate
+13162_left,0,No DR
+13162_right,0,No DR
+13167_left,0,No DR
+13167_right,0,No DR
+13169_left,1,Mild
+13169_right,2,Moderate
+13170_left,0,No DR
+13170_right,0,No DR
+13173_left,0,No DR
+13173_right,0,No DR
+13175_left,2,Moderate
+13175_right,2,Moderate
+13176_left,0,No DR
+13176_right,0,No DR
+13177_left,0,No DR
+13177_right,0,No DR
+13178_left,0,No DR
+13178_right,0,No DR
+13180_left,2,Moderate
+13180_right,2,Moderate
+13184_left,0,No DR
+13184_right,0,No DR
+13186_left,0,No DR
+13186_right,0,No DR
+13188_left,0,No DR
+13188_right,0,No DR
+13189_left,0,No DR
+13189_right,0,No DR
+13190_left,3,Severe
+13190_right,3,Severe
+13192_left,0,No DR
+13192_right,0,No DR
+13196_left,0,No DR
+13196_right,0,No DR
+13201_left,2,Moderate
+13201_right,2,Moderate
+13206_left,0,No DR
+13206_right,0,No DR
+13209_left,1,Mild
+13209_right,1,Mild
+13210_left,0,No DR
+13210_right,0,No DR
+13211_left,0,No DR
+13211_right,0,No DR
+13212_left,0,No DR
+13212_right,0,No DR
+13213_left,0,No DR
+13213_right,0,No DR
+13214_left,0,No DR
+13214_right,0,No DR
+13220_left,0,No DR
+13220_right,0,No DR
+13222_left,4,Proliferative DR
+13222_right,3,Severe
+13229_left,1,Mild
+13229_right,1,Mild
+13230_left,0,No DR
+13230_right,0,No DR
+13234_left,0,No DR
+13234_right,0,No DR
+13237_left,0,No DR
+13237_right,0,No DR
+13239_left,2,Moderate
+13239_right,2,Moderate
+13240_left,0,No DR
+13240_right,0,No DR
+13242_left,0,No DR
+13242_right,0,No DR
+13250_left,0,No DR
+13250_right,0,No DR
+13251_left,0,No DR
+13251_right,0,No DR
+13252_left,2,Moderate
+13252_right,2,Moderate
+13254_left,2,Moderate
+13254_right,2,Moderate
+13259_left,0,No DR
+13259_right,0,No DR
+13260_left,0,No DR
+13260_right,0,No DR
+13264_left,0,No DR
+13264_right,0,No DR
+13267_left,1,Mild
+13267_right,2,Moderate
+13268_left,0,No DR
+13268_right,0,No DR
+13270_left,3,Severe
+13270_right,2,Moderate
+13271_left,0,No DR
+13271_right,0,No DR
+13273_left,0,No DR
+13273_right,0,No DR
+13274_left,0,No DR
+13274_right,0,No DR
+13275_left,0,No DR
+13275_right,0,No DR
+13276_left,0,No DR
+13276_right,0,No DR
+13278_left,0,No DR
+13278_right,0,No DR
+13283_left,0,No DR
+13283_right,0,No DR
+13285_left,0,No DR
+13285_right,0,No DR
+13290_left,0,No DR
+13290_right,0,No DR
+13294_left,0,No DR
+13294_right,0,No DR
+13295_left,0,No DR
+13295_right,0,No DR
+13296_left,0,No DR
+13296_right,0,No DR
+13299_left,0,No DR
+13299_right,0,No DR
+13300_left,0,No DR
+13300_right,0,No DR
+13304_left,0,No DR
+13304_right,0,No DR
+13305_left,0,No DR
+13305_right,1,Mild
+13307_left,0,No DR
+13307_right,0,No DR
+13308_left,2,Moderate
+13308_right,4,Proliferative DR
+13309_left,0,No DR
+13309_right,0,No DR
+13310_left,0,No DR
+13310_right,0,No DR
+13312_left,0,No DR
+13312_right,0,No DR
+13320_left,0,No DR
+13320_right,0,No DR
+13323_left,0,No DR
+13323_right,2,Moderate
+13324_left,0,No DR
+13324_right,0,No DR
+13325_left,0,No DR
+13325_right,0,No DR
+13326_left,2,Moderate
+13326_right,0,No DR
+13328_left,0,No DR
+13328_right,0,No DR
+13333_left,1,Mild
+13333_right,1,Mild
+13341_left,0,No DR
+13341_right,1,Mild
+13344_left,0,No DR
+13344_right,0,No DR
+13345_left,2,Moderate
+13345_right,1,Mild
+13350_left,0,No DR
+13350_right,0,No DR
+13353_left,2,Moderate
+13353_right,2,Moderate
+13356_left,0,No DR
+13356_right,0,No DR
+13359_left,0,No DR
+13359_right,0,No DR
+13363_left,0,No DR
+13363_right,0,No DR
+13371_left,0,No DR
+13371_right,0,No DR
+13375_left,0,No DR
+13375_right,0,No DR
+13376_left,1,Mild
+13376_right,1,Mild
+13379_left,0,No DR
+13379_right,0,No DR
+13383_left,0,No DR
+13383_right,0,No DR
+13384_left,0,No DR
+13384_right,0,No DR
+13387_left,4,Proliferative DR
+13387_right,4,Proliferative DR
+13388_left,0,No DR
+13388_right,0,No DR
+13390_left,0,No DR
+13390_right,0,No DR
+13391_left,0,No DR
+13391_right,0,No DR
+13392_left,0,No DR
+13392_right,0,No DR
+13395_left,3,Severe
+13395_right,4,Proliferative DR
+13396_left,0,No DR
+13396_right,0,No DR
+13397_left,0,No DR
+13397_right,0,No DR
+13400_left,0,No DR
+13400_right,0,No DR
+13404_left,0,No DR
+13404_right,0,No DR
+13407_left,0,No DR
+13407_right,0,No DR
+13408_left,0,No DR
+13408_right,0,No DR
+13409_left,0,No DR
+13409_right,0,No DR
+13410_left,0,No DR
+13410_right,0,No DR
+13417_left,2,Moderate
+13417_right,2,Moderate
+13420_left,2,Moderate
+13420_right,0,No DR
+13427_left,0,No DR
+13427_right,0,No DR
+13430_left,0,No DR
+13430_right,0,No DR
+13431_left,0,No DR
+13431_right,0,No DR
+13432_left,0,No DR
+13432_right,0,No DR
+13436_left,0,No DR
+13436_right,0,No DR
+13438_left,0,No DR
+13438_right,0,No DR
+13446_left,2,Moderate
+13446_right,2,Moderate
+13447_left,1,Mild
+13447_right,0,No DR
+13448_left,0,No DR
+13448_right,0,No DR
+13453_left,0,No DR
+13453_right,0,No DR
+13454_left,0,No DR
+13454_right,0,No DR
+13457_left,0,No DR
+13457_right,0,No DR
+13458_left,0,No DR
+13458_right,0,No DR
+13465_left,0,No DR
+13465_right,0,No DR
+13473_left,0,No DR
+13473_right,0,No DR
+13475_left,0,No DR
+13475_right,0,No DR
+13481_left,0,No DR
+13481_right,0,No DR
+13482_left,0,No DR
+13482_right,0,No DR
+13485_left,0,No DR
+13485_right,0,No DR
+13486_left,2,Moderate
+13486_right,2,Moderate
+13488_left,0,No DR
+13488_right,0,No DR
+13489_left,3,Severe
+13489_right,2,Moderate
+13490_left,1,Mild
+13490_right,1,Mild
+13492_left,0,No DR
+13492_right,0,No DR
+13493_left,2,Moderate
+13493_right,1,Mild
+13494_left,2,Moderate
+13494_right,1,Mild
+13495_left,2,Moderate
+13495_right,0,No DR
+13499_left,0,No DR
+13499_right,0,No DR
+13502_left,1,Mild
+13502_right,0,No DR
+13504_left,0,No DR
+13504_right,0,No DR
+13505_left,0,No DR
+13505_right,0,No DR
+13515_left,0,No DR
+13515_right,0,No DR
+13517_left,1,Mild
+13517_right,1,Mild
+13521_left,0,No DR
+13521_right,0,No DR
+13522_left,1,Mild
+13522_right,0,No DR
+13523_left,0,No DR
+13523_right,0,No DR
+13527_left,2,Moderate
+13527_right,1,Mild
+13529_left,0,No DR
+13529_right,0,No DR
+13530_left,0,No DR
+13530_right,0,No DR
+13534_left,2,Moderate
+13534_right,2,Moderate
+13536_left,0,No DR
+13536_right,0,No DR
+13539_left,0,No DR
+13539_right,0,No DR
+13540_left,0,No DR
+13540_right,0,No DR
+13541_left,0,No DR
+13541_right,0,No DR
+13545_left,0,No DR
+13545_right,0,No DR
+13554_left,0,No DR
+13554_right,0,No DR
+13561_left,0,No DR
+13561_right,0,No DR
+13562_left,0,No DR
+13562_right,0,No DR
+13564_left,0,No DR
+13564_right,0,No DR
+13566_left,2,Moderate
+13566_right,2,Moderate
+13567_left,2,Moderate
+13567_right,0,No DR
+13568_left,2,Moderate
+13568_right,2,Moderate
+13569_left,1,Mild
+13569_right,1,Mild
+13570_left,0,No DR
+13570_right,0,No DR
+13572_left,0,No DR
+13572_right,0,No DR
+13573_left,0,No DR
+13573_right,0,No DR
+13579_left,0,No DR
+13579_right,0,No DR
+13583_left,0,No DR
+13583_right,0,No DR
+13584_left,2,Moderate
+13584_right,2,Moderate
+13585_left,2,Moderate
+13585_right,2,Moderate
+13588_left,2,Moderate
+13588_right,4,Proliferative DR
+13589_left,0,No DR
+13589_right,0,No DR
+13590_left,0,No DR
+13590_right,0,No DR
+13591_left,2,Moderate
+13591_right,3,Severe
+13595_left,1,Mild
+13595_right,0,No DR
+13596_left,0,No DR
+13596_right,0,No DR
+13597_left,2,Moderate
+13597_right,2,Moderate
+13598_left,0,No DR
+13598_right,0,No DR
+13599_left,0,No DR
+13599_right,0,No DR
+13600_left,0,No DR
+13600_right,1,Mild
+13602_left,0,No DR
+13602_right,0,No DR
+13603_left,0,No DR
+13603_right,0,No DR
+13605_left,2,Moderate
+13605_right,2,Moderate
+13607_left,2,Moderate
+13607_right,2,Moderate
+13609_left,0,No DR
+13609_right,0,No DR
+13610_left,0,No DR
+13610_right,0,No DR
+13611_left,0,No DR
+13611_right,0,No DR
+13613_left,0,No DR
+13613_right,0,No DR
+13614_left,0,No DR
+13614_right,0,No DR
+13618_left,0,No DR
+13618_right,0,No DR
+13619_left,0,No DR
+13619_right,0,No DR
+13621_left,0,No DR
+13621_right,0,No DR
+13627_left,2,Moderate
+13627_right,2,Moderate
+13629_left,0,No DR
+13629_right,0,No DR
+13630_left,0,No DR
+13630_right,0,No DR
+13633_left,0,No DR
+13633_right,0,No DR
+13635_left,0,No DR
+13635_right,0,No DR
+13636_left,0,No DR
+13636_right,0,No DR
+13637_left,0,No DR
+13637_right,0,No DR
+13638_left,2,Moderate
+13638_right,2,Moderate
+13643_left,2,Moderate
+13643_right,1,Mild
+13644_left,2,Moderate
+13644_right,2,Moderate
+13645_left,0,No DR
+13645_right,0,No DR
+13649_left,0,No DR
+13649_right,0,No DR
+13651_left,2,Moderate
+13651_right,4,Proliferative DR
+13658_left,0,No DR
+13658_right,0,No DR
+13659_left,1,Mild
+13659_right,0,No DR
+13660_left,2,Moderate
+13660_right,0,No DR
+13662_left,0,No DR
+13662_right,1,Mild
+13664_left,4,Proliferative DR
+13664_right,4,Proliferative DR
+13667_left,2,Moderate
+13667_right,2,Moderate
+13668_left,2,Moderate
+13668_right,2,Moderate
+13669_left,4,Proliferative DR
+13669_right,4,Proliferative DR
+13670_left,0,No DR
+13670_right,0,No DR
+13672_left,0,No DR
+13672_right,0,No DR
+13673_left,0,No DR
+13673_right,0,No DR
+13675_left,0,No DR
+13675_right,0,No DR
+13678_left,0,No DR
+13678_right,0,No DR
+13680_left,0,No DR
+13680_right,0,No DR
+13683_left,0,No DR
+13683_right,0,No DR
+13684_left,2,Moderate
+13684_right,3,Severe
+13685_left,0,No DR
+13685_right,0,No DR
+13688_left,0,No DR
+13688_right,0,No DR
+13691_left,0,No DR
+13691_right,0,No DR
+13692_left,0,No DR
+13692_right,0,No DR
+13693_left,0,No DR
+13693_right,1,Mild
+13697_left,0,No DR
+13697_right,0,No DR
+13701_left,0,No DR
+13701_right,0,No DR
+13704_left,2,Moderate
+13704_right,2,Moderate
+13705_left,4,Proliferative DR
+13705_right,2,Moderate
+13708_left,1,Mild
+13708_right,1,Mild
+13713_left,0,No DR
+13713_right,0,No DR
+13714_left,1,Mild
+13714_right,1,Mild
+13716_left,3,Severe
+13716_right,3,Severe
+13721_left,0,No DR
+13721_right,0,No DR
+13730_left,1,Mild
+13730_right,0,No DR
+13731_left,0,No DR
+13731_right,0,No DR
+13733_left,0,No DR
+13733_right,0,No DR
+13736_left,0,No DR
+13736_right,0,No DR
+13738_left,0,No DR
+13738_right,0,No DR
+13739_left,0,No DR
+13739_right,0,No DR
+13740_left,0,No DR
+13740_right,0,No DR
+13742_left,0,No DR
+13742_right,0,No DR
+13743_left,0,No DR
+13743_right,0,No DR
+13745_left,0,No DR
+13745_right,0,No DR
+13746_left,0,No DR
+13746_right,0,No DR
+13748_left,0,No DR
+13748_right,0,No DR
+13749_left,0,No DR
+13749_right,0,No DR
+13751_left,1,Mild
+13751_right,1,Mild
+13753_left,2,Moderate
+13753_right,1,Mild
+13754_left,0,No DR
+13754_right,0,No DR
+13757_left,0,No DR
+13757_right,0,No DR
+13758_left,0,No DR
+13758_right,0,No DR
+13762_left,0,No DR
+13762_right,1,Mild
+13765_left,0,No DR
+13765_right,0,No DR
+13766_left,1,Mild
+13766_right,1,Mild
+13768_left,2,Moderate
+13768_right,2,Moderate
+13769_left,0,No DR
+13769_right,0,No DR
+13770_left,1,Mild
+13770_right,0,No DR
+13771_left,0,No DR
+13771_right,0,No DR
+13773_left,2,Moderate
+13773_right,2,Moderate
+13776_left,0,No DR
+13776_right,0,No DR
+13780_left,2,Moderate
+13780_right,2,Moderate
+13784_left,0,No DR
+13784_right,0,No DR
+13786_left,2,Moderate
+13786_right,2,Moderate
+13790_left,0,No DR
+13790_right,0,No DR
+13796_left,0,No DR
+13796_right,0,No DR
+13798_left,0,No DR
+13798_right,1,Mild
+13802_left,0,No DR
+13802_right,0,No DR
+13805_left,0,No DR
+13805_right,0,No DR
+13807_left,0,No DR
+13807_right,0,No DR
+13808_left,0,No DR
+13808_right,2,Moderate
+13811_left,4,Proliferative DR
+13811_right,4,Proliferative DR
+13815_left,0,No DR
+13815_right,0,No DR
+13816_left,0,No DR
+13816_right,0,No DR
+13817_left,0,No DR
+13817_right,0,No DR
+13819_left,4,Proliferative DR
+13819_right,4,Proliferative DR
+13820_left,2,Moderate
+13820_right,2,Moderate
+13821_left,2,Moderate
+13821_right,0,No DR
+13945_right,1,Mild
+14262_right,0,No DR
+14595_right,0,No DR
+14921_right,0,No DR
