@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+
 # ViT Flask App
+## Example Prediction Screenshot
+
+![Prediction Result](vit-flask-app/static/images/result.png)
 
 A Flask web application for image classification using Vision Transformer (ViT) models.
 
