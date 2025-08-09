@@ -1,0 +1,15 @@
+
+tensorflow==2.13.0
+tensorflow-hub
+tensorflow-addons
+matplotlib
+numpy
+pandas
+scikit-learn
+opencv-python
+Pillow
+flask
+gunicorn
+tflite-runtime       # If you're using TFLite model outside TensorFlow
+seaborn              # For visualization
+keras                # If directly using keras imports
