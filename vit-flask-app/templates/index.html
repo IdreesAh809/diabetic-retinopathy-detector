@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Diabetic Retinopathy Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+</head>
+<body>
+    <div class="container">
+        <h1>Diabetic Retinopathy Detection</h1>
+
+        <form method="POST" enctype="multipart/form-data" class="upload-form">
+            <label for="file" class="file-label">
+                Choose Image
+                <input type="file" name="file" id="file" accept="image/*" required />
+            </label>
+            <button type="submit" class="btn">Predict</button>
+        </form>
+
+        {% if prediction %}
+        <div class="result">
+            <h2>Prediction:</h2>
+            <p class="prediction-text">{{ prediction }}</p>
+            <!-- Display uploaded image -->
+            <img src="{{ url_for('static', filename='uploads/' + filename) }}" alt="Uploaded Image" />
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
